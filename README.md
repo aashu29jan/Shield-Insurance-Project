@@ -16,7 +16,7 @@ Delhi NCR: Dominates with the largest customer base and revenue, showcasing a st
 Mumbai: Contributes significantly to revenue with a solid customer base.
 Hyderabad and Chennai: Smaller customer numbers but strategically important for overall revenue.
 
-*Demographic Insights:*
+**Demographic Insights:**
 
 The 31-40 age group is the primary revenue driver, followed closely by the 41-50 age group.
 Customers aged 50 and above, though a smaller segment, have a considerable impact on revenue.
@@ -38,6 +38,7 @@ Policy 'POL2005HEL' is the top revenue-generating policy.
 3.Interactive Dashboard
 
 **Acknowledgments**
+
 I extend my sincere gratitude to Dhaval Patel, Hemanand Vadivel, and the entire Codebasics team for their mentorship and support throughout this learning journey.
 
 Feedback
